@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612042014126",
+    "firebase_url": "https://final-ebc27.firebaseio.com",
+    "project_id": "final-ebc27",
+    "storage_bucket": "final-ebc27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612042014126:android:bf7c5764985a059beb9c3f",
+        "android_client_info": {
+          "package_name": "com.example.detecttelecomconnectivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612042014126-6i6tsp3j2ckg6pea35s5qbiunqp3s3lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWkuEs7qycn7Zm1x7rTodvNg-ynJGZwDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612042014126-6i6tsp3j2ckg6pea35s5qbiunqp3s3lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
